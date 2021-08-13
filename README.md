@@ -8,7 +8,7 @@ Student, Computer Science Engineering, Manipal University Jaipur.
 - 🌱 I’m currently learning about Model–view–viewmodel architecture and how to build production level apps;
 - 💬 Contact me for help with Android and Core Java;
 - 📫 How to reach me : <mini.anu2409@gmail.com>
-- ⚡ Fun fact : give me a word and I will rhyme it for you ;
+- ⚡ Fun fact : give me a word and I will rhyme it for you;
 
 
 <h3 align="left">Languages and Tools:</h3>
