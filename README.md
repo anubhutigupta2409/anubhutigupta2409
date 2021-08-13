@@ -3,7 +3,8 @@
 
 Student, Computer Science Engineering, Manipal University Jaipur.
 
-About Me :)
+
+<h3 align="left">About Me :)</h3>
 
 - 🌱 I’m currently learning about Model–view–viewmodel architecture and how to build production level apps;
 - 💬 Contact me for help with Android and Core Java;
