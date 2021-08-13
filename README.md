@@ -1,13 +1,13 @@
 <h1 align="left">Hi 👋, I'm Anubhuti Gupta</h1>
 <h3 align="left">I am settling in ッ</h3>
 
-- 🌱 I’m currently learning Model–view–viewmodel architecture and how to build production level apps;
+- 🌱 I’m currently learning about Model–view–viewmodel architecture and how to build production level apps;
 
-- 💬 Ask me about Android and Core Java;
+- 💬 Contact me for help with Android and Core Java;
 
-- 📫 How to reach me <mini.anu2409@gmail.com>
+- 📫 How to reach me : <mini.anu2409@gmail.com>
 
-- ⚡ Fun fact give me a word and I will rhyme it for you ;
+- ⚡ Fun fact : give me a word and I will rhyme it for you ;
 
 
 <h3 align="left">Languages and Tools:</h3>
