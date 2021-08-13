@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Anubhuti Gupta</h1>
-<h3 align="left">I am settling in ッ</h3>
+<h3 align="left">settling in ッ</h3>
 
 Student, Computer Science Engineering, Manipal University Jaipur.
 
